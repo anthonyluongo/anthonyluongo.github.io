@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anthony Luongo"
   avatar           : "anthony-luongo.png"
-  bio              : "Ph.D. student, Department of Political Science, Emory University"
+  bio              : "Ph.D. Student, Department of Political Science, Emory University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "0000-0003-2136-042X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

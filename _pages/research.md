@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Works in Progress
-"Bilateral Aid Allocation by the US and China under Donor Competition"
+"Strategic Signaling and Aid Allocation"
 
-"Elite Capture of Chinese Aid" (with Stefano Jud)
+"Strategic Foreign Aid: A Structural Approach" (with [Michael Gibilisco](https://michaelgibilisco.com/index.html), [Brenton Kenkel](https://bkenkel.com/), and [Miguel Rueda](http://miguelrueda.net/))
+
+"Elite Capture of Chinese Aid" (with [Stefano Jud](https://stefanojud.com/))

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Works in Progress
-"Strategic Signaling and Aid Allocation"
+"Playing Hard to Get: Strategic Signaling and Aid Allocation"
 
 "Strategic Foreign Aid: A Structural Approach" (with [Michael Gibilisco](https://michaelgibilisco.com/index.html), [Brenton Kenkel](https://bkenkel.com/), and [Miguel Rueda](http://miguelrueda.net/))
 

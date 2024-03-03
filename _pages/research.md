@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-### Working papers
+## Working papers
 Please email me for the latest draft. 
 
 "Playing Hard to Get: Strategic Signaling in Aid Bargaining"
@@ -21,7 +21,7 @@ inflows. This argument highlights the role of aid-receiving states as strategic 
 extract concessions from donors.
 
 
-### Works in Progress
+## Works in Progress
 "Endogenous Importance in Aid Bargaining"
 
 "Recipient Agency and the IMF Executive Board"

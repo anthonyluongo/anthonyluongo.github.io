@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Experience
 Co-Instructor with Dr. Eric Reinhardt, International Organizations (POLS 313W), Fall 2024
 
 Teaching Assistant for Dr. Matt Baker, Research Design and Methods (POLS 208), Spring 2024

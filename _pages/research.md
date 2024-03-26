@@ -8,7 +8,8 @@ author_profile: true
 Please email me for the latest draft. 
 
 "Playing Hard to Get: Strategic Signaling in Aid Bargaining"
-   <details>
+
+*   <details>
    <summary>Show abstract</summary>
 
   Foreign aid is a political exchange between a donor and target. Existing literature focuses

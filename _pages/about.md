@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<meta name="google-site-verification" content="HLl6vjGR7HyL4tCJFYFa-nnZnhu7xvdQ2rLIiNzYCoo" />
 ---
 
 I am a third-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/) at Emory University. My research is in international political economy, particularly the allocation and impact of foreign aid. I have written for [*Democracy in Africa*](http://democracyinafrica.org). 

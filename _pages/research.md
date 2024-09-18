@@ -40,4 +40,4 @@ author_profile: true
 
 "Recipient Agency and the IMF Executive Board"
 
-"Elite Capture of Chinese Aid" (with [Stefano Jud](https://stefanojud.com/))
+"My House, My Rules: The Placement of Chinese Aid Projects in Protected Areas" (with [Stefano Jud](https://stefanojud.com/))

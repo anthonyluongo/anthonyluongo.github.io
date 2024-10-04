@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Working papers
-* "Playing Hard to Get: Strategic Signaling in Aid Bargaining"
+* ["Playing Hard to Get: Strategic Signaling in Aid Bargaining"](/files/AL_signaling_WP.pdf)
 
    <details>
    <summary>Show abstract</summary>

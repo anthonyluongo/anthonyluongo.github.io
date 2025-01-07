@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DCCQLNQF7K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DCCQLNQF7K');
+</script>
+
 
 I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/) at Emory University. My research is in international political economy and international organizations, particularly the allocation and impact of foreign aid. In my dissertation, I focus on the strategies that aid-receiving states employ to pursue their interests in interactions with great powers and international organizations. Other projects explore US-China competition and how aid affects environmental protection efforts in recipient countries. 
 

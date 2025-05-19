@@ -32,6 +32,15 @@ author_profile: true
   
   </details>
   
+* ["My House, My Rules: Chinese Aid, Leader Birth Regions, and the Violation of Protected Areas"](/files/SJAL_MHMR_WP.pdf) (with [Stefano Jud](https://stefanojud.com/)). *Under review.*
+  
+  <details>
+  <summary>Show abstract</summary>
+  
+  Existing research highlights that Chinese foreign aid is often vulnerable to elite capture in recipient countries. This study examines whether elite capture negatively impacts environmental protection. Specifically, we investigate the enforcement of protected areas (PAs) and assess the extent to which the placement of Chinese aid projects within PAs is shaped by whether a project benefits local economic interests in a political leader’s birth region. We theorize that leaders are more willing violate PAs if the project is placed in their home region than if it is located in a non-home region because the interests that benefit from the aid project in the home region use their new rents to support the incumbent. Analyzing a dataset of 3,675 Chinese infrastructure projects, we find no overall increase in the likelihood of projects infringing on PAs due to a leader's birth region. However, the results reveal significant regional variation. In Africa, projects located in a leader’s birth region are approximately 10 percent more likely to encroach on PAs than projects outside of the leader's birth region. Outside Africa, this relationship is reversed, with projects less likely to violate PAs when placed in a leader’s home region. Exploratory analyses suggest that domestic public opinion about China and the political salience of ethnicity may explain this regional difference. No such effect exists for World Bank projects. 
+  
+  </details>
+  
 * "Strategic Foreign Aid: A Structural Approach" (with [Michael Gibilisco](https://michaelgibilisco.com/index.html), [Brenton Kenkel](https://bkenkel.com/), and [Miguel Rueda](http://miguelrueda.net/))
 
   <details>
@@ -49,4 +58,4 @@ author_profile: true
 
 "Recipient Agency and the IMF Executive Board"
 
-"My House, My Rules: The Placement of Chinese Aid Projects in Protected Areas" (with [Stefano Jud](https://stefanojud.com/))
+"Executive Preferences over Gender and Aid Allocation" (with [Stefano Jud](https://stefanojud.com/))

@@ -14,7 +14,7 @@ author_profile: true
   gtag('config', 'G-DCCQLNQF7K');
 </script>
 ## Working papers
-* ["Playing Hard to Get: Strategic Signaling in Aid Bargaining."](/files/AL_signaling_WP.pdf) *Under review.*
+* ["Playing Hard to Get: Strategic Signaling in Aid Bargaining."](/files/AL_signaling_WP.pdf) *Invited to revise and resubmit at International Studies Quarterly.*
 
    <details>
    <summary>Show abstract</summary>

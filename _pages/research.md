@@ -41,7 +41,7 @@ author_profile: true
   
   </details>
   
-* ["Small State Influence at the IMF Executive Board"](/files/AL_IMF_WP.pdf). *Job market paper.*
+* ["Small State Influence at the IMF Executive Board."](/files/AL_IMF_WP.pdf) *Job market paper.*
 
   <details>
   <summary>Show abstract</summary>

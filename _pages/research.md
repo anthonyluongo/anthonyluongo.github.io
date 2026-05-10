@@ -32,7 +32,7 @@ author_profile: true
   
   </details>
   
-* ["My House, My Rules: Chinese Aid, Leader Birth Regions, and the Violation of Protected Areas"](/files/SJAL_MHMR_WP.pdf) (with [Stefano Jud](https://stefanojud.com/)). *Under review.*
+* ["My House, My Rules: Chinese Aid, Leader Birth Regions, and the Violation of Protected Areas"](/files/SJAL_MHMR_WP.pdf) (with [Stefano Jud](https://stefanojud.com/)). *Invited to revise and resubmit at Review of International Organizations.*
   
   <details>
   <summary>Show abstract</summary>

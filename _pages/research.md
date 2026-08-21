@@ -13,10 +13,10 @@ author_profile: true
 
   gtag('config', 'G-DCCQLNQF7K');
 </script>
-## Working papers
-* ["Playing Hard to Get: Strategic Signaling in Aid Bargaining."](/files/AL_signaling_WP.pdf) *Conditionally accepted at International Studies Quarterly.*
+## Publication
+Luongo, Anthony. 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargaining.” International Studies Quarterly 70(3). [Link](https://academic.oup.com/isq/article/70/3/sqag065/8767478)
 
-   <details>
+  <details>
    <summary>Show abstract</summary>
 
   Foreign aid is a political exchange between a donor and target. Existing literature focuses
@@ -31,7 +31,10 @@ author_profile: true
   extract concessions from donors.
   
   </details>
-  
+
+
+## Working papers
+
 * ["My House, My Rules: Chinese Aid, Leader Birth Regions, and the Violation of Protected Areas"](/files/SJAL_MHMR_WP.pdf) (with [Stefano Jud](https://stefanojud.com/)). *Invited to revise and resubmit at Review of International Organizations.*
   
   <details>

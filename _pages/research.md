@@ -65,6 +65,8 @@ Luongo, Anthony. 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargai
   
 
 ## Works in Progress
-"Borrower Appointments to the IMF Executive Board"
+"Allies or Technocrats? Small State Appointments to the IMF Executive Board"
+
+"Aid-for-Policy and Aid-for-Allies"
 
 "Executive Preferences over Gender and Aid Allocation" (with [Stefano Jud](https://stefanojud.com/))

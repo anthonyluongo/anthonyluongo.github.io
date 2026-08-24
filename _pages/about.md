@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-I am a Postdoctoral Fellow at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University. I received my Ph.D. from the [Department of Political Science](http://polisci.emory.edu/home/) at Emory University in 2026. My research is in international political economy and international organizations, particularly the allocation and impact of foreign assistance. *I am on the academic job market for 2026-27.*
+I am a Postdoctoral Fellow at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University. I received my Ph.D. from the [Department of Political Science](http://polisci.emory.edu/home/) at Emory University in 2026. My research is in international political economy and international organizations, particularly the allocation and impact of foreign assistance. **I am on the academic job market for 2026-27.**
 
 In my main research agenda, I focus on the strategies that small states employ to pursue their interests in interactions with great powers and international organizations. My other projects explore the political economy of foreign assistance and global environmental politics. My research has appeared in *International Studies Quarterly.* I have also written for [*Democracy in Africa*](http://democracyinafrica.org). 
 

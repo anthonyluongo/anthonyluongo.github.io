@@ -13,8 +13,17 @@ author_profile: true
 
   gtag('config', 'G-DCCQLNQF7K');
 </script>
-## Publication
-Luongo, Anthony. 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargaining.” International Studies Quarterly 70(3). [Link](https://academic.oup.com/isq/article/70/3/sqag065/8767478)
+## Publications
+* [Jud, Stefano](https://stefanojud.com/) and **Anthony Luongo.** "My House, My Rules: Chinese Aid, Leader Birth Regions, and the Encroachment of Protected Areas." *Review of International Organizations.* [Preprint](/files/SJAL_MHMR_WP.pdf)
+  
+  <details>
+  <summary>Show abstract</summary>
+  
+  Foreign-funded development projects have long come into conflict with environmental protection efforts, including by encroaching on protected areas (PAs). We investigate the conditions under which countries are more likely to allow foreign aid projects to infringe on PAs. Drawing on the selective enforcement literature, we hypothesize that leaders are more likely to permit incursions into PAs when projects are located in their home region, as local beneficiaries can translate the resulting rents into political support for the incumbent, while the risk of substantial public backlash over environmental violations is comparatively muted. Using geocoded data on 3,675 Chinese infrastructure projects, we find no overall increase in PA encroachments associated with leaders’ birth regions. However, the aggregate null masks a positive association in Africa, where projects placed in a leader’s birth region are roughly 10 percentage points more likely to encroach on PAs than projects outside the birth region. This association is concentrated in a few countries and in energy, mining, and industry projects. Exploratory analyses suggest that domestic public opinion toward China and the political salience of ethnicity moderate this effect. We find no analogous effect for World Bank projects.
+  
+  </details>
+
+**Luongo, Anthony.** 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargaining.” *International Studies Quarterly* 70(3). [Link](https://academic.oup.com/isq/article/70/3/sqag065/8767478)
 
   <details>
    <summary>Show abstract</summary>
@@ -34,15 +43,6 @@ Luongo, Anthony. 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargai
 
 
 ## Working papers
-
-* ["My House, My Rules: Chinese Aid, Leader Birth Regions, and the Violation of Protected Areas"](/files/SJAL_MHMR_WP.pdf) (with [Stefano Jud](https://stefanojud.com/)). *Invited to revise and resubmit at Review of International Organizations.*
-  
-  <details>
-  <summary>Show abstract</summary>
-  
-  Existing research highlights that Chinese foreign aid is often vulnerable to elite capture in recipient countries. This study examines whether elite capture negatively impacts environmental protection. Specifically, we investigate the enforcement of protected areas (PAs) and assess the extent to which the placement of Chinese aid projects within PAs is shaped by whether a project benefits local economic interests in a political leader’s birth region. We theorize that leaders are more willing violate PAs if the project is placed in their home region than if it is located in a non-home region because the interests that benefit from the aid project in the home region use their new rents to support the incumbent. Analyzing a dataset of 3,675 Chinese infrastructure projects, we find no overall increase in the likelihood of projects infringing on PAs due to a leader's birth region. However, the results reveal significant regional variation. In Africa, projects located in a leader’s birth region are approximately 10 percent more likely to encroach on PAs than projects outside of the leader's birth region. Outside Africa, this relationship is reversed, with projects less likely to violate PAs when placed in a leader’s home region. Exploratory analyses suggest that domestic public opinion about China and the political salience of ethnicity may explain this regional difference. No such effect exists for World Bank projects. 
-  
-  </details>
   
 * ["Small State Influence at the IMF Executive Board."](/files/AL_IMF_WP.pdf) *Job market paper. Under review.*
 
@@ -61,7 +61,6 @@ Luongo, Anthony. 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargai
   
   </details>
 
-  
   
 
 ## Works in Progress

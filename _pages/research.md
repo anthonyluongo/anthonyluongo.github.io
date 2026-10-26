@@ -14,7 +14,7 @@ author_profile: true
   gtag('config', 'G-DCCQLNQF7K');
 </script>
 ## Publications
-* [Jud, Stefano](https://stefanojud.com/) and **Anthony Luongo.** "My House, My Rules: Chinese Aid, Leader Birth Regions, and the Encroachment of Protected Areas." *Review of International Organizations.* [Preprint](/files/SJAL_MHMR_WP.pdf)
+[Jud, Stefano](https://stefanojud.com/) and **Anthony Luongo.** "My House, My Rules: Chinese Aid, Leader Birth Regions, and the Encroachment of Protected Areas." *Review of International Organizations.* [Preprint](/files/SJAL_MHMR_WP.pdf)
   
   <details>
   <summary>Show abstract</summary>

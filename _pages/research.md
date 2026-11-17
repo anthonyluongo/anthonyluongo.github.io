@@ -44,7 +44,7 @@ author_profile: true
 
 ## Working papers
   
-* ["Small State Influence at the IMF Executive Board."](/files/AL_IMF_WP.pdf) *Job market paper. Under review.*
+["Small State Influence at the IMF Executive Board."](/files/AL_IMF_WP.pdf) *Job market paper. Under review.*
 
   <details>
   <summary>Show abstract</summary>
@@ -52,7 +52,7 @@ author_profile: true
   In recent years, small states have agitated, with increasing success, for increased formal representation in decision-making bodies within salient international organizations (IOs). Existing literature has primarily focused on how powerful states influence IO operations, while generally downplaying the ability of small states to overcome great power dominance. This paper explores how small states leverage institutional opportunities to benefit from IOs, taking the case of the International Monetary Fund. I argue that institutionally empowered small states accede to great power dominance at the IMF in exchange for concessions on their highest priority: influence over their own loans. To test this argument, I leverage plausibly exogenous variation in small state representation on the IMF's Executive Board, which manages the Fund's day-to-day activities. Statistical results establish that formal representation increases the count of total conditions. Additional analyses demonstrate that conditions that weaken labor's collective action capacity and increase the popularity of IMF programs see the largest increases. 
 
   
-* "Strategic Foreign Aid: A Structural Approach" (with [Michael Gibilisco](https://michaelgibilisco.com/index.html), [Brenton Kenkel](https://bkenkel.com/), and [Miguel Rueda](http://miguelrueda.net/))
+"Strategic Foreign Aid: A Structural Approach" (with [Michael Gibilisco](https://michaelgibilisco.com/index.html), [Brenton Kenkel](https://bkenkel.com/), and [Miguel Rueda](http://miguelrueda.net/))
 
   <details>
   <summary>Show abstract</summary>
@@ -64,8 +64,10 @@ author_profile: true
   
 
 ## Works in Progress
-"Allies or Technocrats? Small State Appointments to the IMF Executive Board"
-
 "Aid-for-Policy and Aid-for-Allies"
 
+"Allies or Technocrats? Small State Appointments to the IMF Executive Board"
+
 "Executive Preferences over Gender and Aid Allocation" (with [Stefano Jud](https://stefanojud.com/))
+
+"Recipient Responses to USAID Cuts: Evidence from Transfers to Local Governments" (with [Margaret Kenney](https://www.margaretkenney.com/) and [Allie Myren](https://www.allisonmyren.com/about))

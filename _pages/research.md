@@ -14,7 +14,7 @@ author_profile: true
   gtag('config', 'G-DCCQLNQF7K');
 </script>
 ## Publications
-[Jud, Stefano](https://stefanojud.com/) and **Anthony Luongo.** "My House, My Rules: Chinese Aid, Leader Birth Regions, and the Encroachment of Protected Areas." *Review of International Organizations.* [Preprint](/files/SJAL_MHMR_WP.pdf)
+[Jud, Stefano](https://stefanojud.com/) and **Anthony Luongo.** "My House, My Rules: Chinese Aid, Leader Birth Regions, and the Encroachment of Protected Areas." *Review of International Organizations.* [Open access link](https://link.springer.com/article/10.1007/s11558-026-09659-x)
   
   <details>
   <summary>Show abstract</summary>
@@ -23,7 +23,7 @@ author_profile: true
   
   </details>
 
-**Luongo, Anthony.** 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargaining.” *International Studies Quarterly* 70(3). [Link](https://academic.oup.com/isq/article/70/3/sqag065/8767478)
+**Luongo, Anthony.** 2026. “Playing Hard to Get: Strategic Signaling in Aid Bargaining.” *International Studies Quarterly* 70(3). [Open access link](https://academic.oup.com/isq/article/70/3/sqag065/8767478)
 
   <details>
    <summary>Show abstract</summary>
